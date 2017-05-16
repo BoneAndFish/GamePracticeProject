@@ -1,2 +1,5 @@
-﻿test,a,b,c
-test,d,e,f
+﻿w,w,w,w,w,
+w,j,w,j,w,
+w,*,*,*,w,
+w,m,m,j,w,
+w,w,w,w,w,
